@@ -16,4 +16,4 @@ Ces exercices sont conçus pour renforcer la logique de programmation et la maî
 ## 👤 Auteur
 
 Yassine Maaloul  
-[GitHub](https://github.com/maaloulyassine) – [LinkedIn]((https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BU9I75z3xR9%2B4sP899ECSlA%3D%3D)
+[GitHub](https://github.com/maaloulyassine) – [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BU9I75z3xR9%2B4sP899ECSlA%3D%3D)
