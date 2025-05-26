@@ -4,7 +4,7 @@ Ce dépôt contient des petits projets en langage C, portant sur la manipulation
 
 ## 📂 Fichiers
 
-tp4.pdf avec correction
+fichier c
 
 ## 🎯 Objectif pédagogique
 
